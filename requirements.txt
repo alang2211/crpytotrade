@@ -1,0 +1,6 @@
+sphinx
+readthedocs-sphinx-ext
+sphinx-rtd-theme
+sphinx-autobuild
+sphinxcontrib-httpdomain
+sphinxcontrib-napoleon
